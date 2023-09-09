@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @jankkosinski
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React
-- 📫 How to reach me -> jan.k.kosinski@gmail.com
+- 💻 Keep On Coding
 
 <!---
 jankkosinski/jankkosinski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
